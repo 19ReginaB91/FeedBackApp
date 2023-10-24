@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "971360498006",
+    "firebase_url": "https://fb-feedbck-app-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fb-feedbck-app",
+    "storage_bucket": "fb-feedbck-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971360498006:android:d1faad1cc12f56249be6f7",
+        "android_client_info": {
+          "package_name": "com.example.feedback_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP3U2qPvBcWL7ml9V9t3NLcZN6NxdeI7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
