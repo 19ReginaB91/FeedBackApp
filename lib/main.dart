@@ -5,8 +5,8 @@ import 'package:firebase_core/firebase_core.dart';
 
 void main() async {
  WidgetsFlutterBinding.ensureInitialized();
- await Firebase.initializeApp();
- runApp(FeedbackApp());
+ Firebase.initializeApp();
+ runApp(const FeedbackApp());
 }
 
 class FeedbackApp extends StatelessWidget {
